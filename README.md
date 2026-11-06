@@ -100,7 +100,7 @@ Developed an interactive dashboard using Google Looker Studio to visualize custo
 ## **Project Files**
 
 - `customer_churn_analysis.xlsx` – Excel file containing data cleaning, feature creation, and exploratory data analysis.
-- `customer_churn_dashboard.jpg` – Interactive dashboard developed using Google Looker Studio.
+- `customer_churn_dashboard.jpg` – Dashboard preview.
 - `README.md` – Project documentation.
 
 ## **Conclusion**
