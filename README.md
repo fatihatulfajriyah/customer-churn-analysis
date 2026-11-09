@@ -6,7 +6,7 @@ This project analyzes customer data to identify key factors contributing to cust
 
 ## **Project Details**
 
-- **Tools:** Microsoft Excel, Pivot Tables, Google Looker Studio
+- **Tools:** Microsoft Excel, Pivot Tables, Google Data Studio
 - **Dataset:** Customer Churn Dataset
 - **Total Records:** 5,000
 - **Total Customers:** 5,000
@@ -54,7 +54,7 @@ Used Excel Pivot Tables to explore customer churn patterns and examine relations
 
 ### **3. Customer Churn Dashboard**
 
-Developed an interactive dashboard using Google Looker Studio to visualize customer churn patterns and compare different customer segments.
+Developed an interactive dashboard using Google Data Studio to visualize customer churn patterns and compare different customer segments.
 
 **Dashboard Overview:**
 
@@ -74,7 +74,7 @@ Developed an interactive dashboard using Google Looker Studio to visualize custo
 
 **Interactive Dashboard:**
 
-[**View Customer Churn Dashboard – Google Looker Studio**](https://datastudio.google.com/reporting/6509ff6c-c9b0-4e50-a8a6-c8c46e7c92a1)
+[**View Customer Churn Dashboard – Google Data Studio**](https://datastudio.google.com/reporting/6509ff6c-c9b0-4e50-a8a6-c8c46e7c92a1)
 
 ## **Key Business Recommendations**
 
