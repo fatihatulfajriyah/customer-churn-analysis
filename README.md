@@ -49,7 +49,7 @@ Used Excel Pivot Tables to explore customer churn patterns and examine relations
 **Key Findings:**
 
 - Monthly contracts recorded the highest churn rate at 51.48%.
-- Customers making more than five support calls showed churn rates above 60%.
+- Customers making more than five support calls showed a churn rate of over 60%.
 - Customers with high payment delays recorded the highest churn rate at 70.09%.
 
 ### **3. Customer Churn Dashboard**
@@ -78,7 +78,7 @@ Developed an interactive dashboard using Google Looker Studio to visualize custo
 
 ## **Key Business Recommendations**
 
-- Encourage monthly subscribers to consider longer-term contracts through targeted offers.
+- Encourage monthly subscribers to switch to longer-term contracts through targeted retention offers.
 - Improve customer support to address recurring issues and reduce churn risk.
 - Prioritize customers with high payment delays for proactive retention activities.
 - Monitor high-risk customer segments and develop targeted retention strategies.
