@@ -1,0 +1,21 @@
+﻿Churn by Contract Length;;;;Churn Rate by Support Calls;;;Payment Delay Group vs Churn Rate;
+Contract Length;Total Customer;Churn Rate;;Support Calls;Churn Rate;;Payment Delay Group;Churn Rate
+Monthly;1723;51,48%;;0;23,78%;;High;70,09%
+Quarterly;1649;45,36%;;1;23,59%;;Low;11,63%
+Annual;1628;45,02%;;2;22,57%;;Medium;10,66%
+Grand Total;5000;47,36%;;3;25,34%;;Grand Total;47,36%
+;;;;4;32,45%;;;
+;;;;5;63,95%;;;
+Customer Churn Overview;;;;6;61,06%;;Usage Frequency Group vs Churn Rate;
+Customer Status;Total Customer;;;7;63,23%;;Usage Frequency Group;Churn Rate
+Active;2632;;;8;61,10%;;Low Usage;55,18%
+Churn;2368;;;9;60,04%;;High Usage;43,95%
+Grand Total;5000;;;10;60,12%;;Medium Usage;42,27%
+;;;;Grand Total;47,36%;;Grand Total;47,36%
+;;;;;;;;
+Churn Rate by Subscription Type;;;;;;;;
+Subscription Type;Churn Rate;;;;;;;
+Standard;48%;;;;;;;
+Basic;48%;;;;;;;
+Premium;46%;;;;;;;
+Grand Total;47%;;;;;;;
